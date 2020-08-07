@@ -11,6 +11,9 @@
 
 
 Proptypes : https://fr.reactjs.org/docs/typechecking-with-proptypes.html 
+
+
+
 default props : https://blog.logrocket.com/a-complete-guide-to-default-props-in-react-984ea8e6972d/#:~:text=These%20components%20are%20usually%20called%20functional%20components%20or%20stateless%20functional%20components.&text=As%20with%20class%20components%2C%20you,to%20the%20component%20function%20itself.  
 
 NB : props must be passed from app js 
